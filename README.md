@@ -1,4 +1,4 @@
-- <h3 align="center">Hi 👋, I'm Bianca</h3>
+<h3 align="center">Hi 👋, I'm Bianca</h3>
 <h3 align="center">Web Developer, Marketing Expert & Tech Enthusiast living in Vienna</h3>
 
 - 🔭 I’m currently working on [Watercolor art](https://github.com/Bianca-LH/pjct-next-4-final-project)
